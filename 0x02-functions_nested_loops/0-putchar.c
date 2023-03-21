@@ -3,6 +3,6 @@ int main(void)
 {
 /* prints some shit _putchar */
 
-printf("_putchar\n");
+_putchar("_putchar\n");
 rerurn 0;
 }
